@@ -15,8 +15,7 @@ This repository documents the **end-to-end workflow** of handling support ticket
   - [2. Assigning and Updating Ticket Severity](#2-assigning-and-updating-ticket-severity)
   - [3. Resolving a Ticket](#3-resolving-a-ticket)
   - [4. Closing a Ticket](#4-closing-a-ticket)
-  - [5. Viewing Closed Tickets](#5-viewing-closed-tickets)
-  - [6. Final Review - All Tickets Resolved](#6-final-review---all-tickets-resolved)
+  - [5. Final Review - All Tickets Resolved](#5-final-review---all-tickets-resolved)
 - [Conclusion](#conclusion)
 
 ---
